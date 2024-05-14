@@ -1,7 +1,5 @@
 # ArduAir
 
-## Description
-
 This project is an air quality sensor that measures humidity, temperature, smoke levels, and particle matter. It uses an ESP8266 WiFi module and the Blynk app for data visualization.
 
 ## Technologies Used
